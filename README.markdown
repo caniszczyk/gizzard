@@ -1,4 +1,4 @@
-# Gizzard: a library for creating distributed datastores
+# Gizzard: a library for creating distributed datastores [![Build Status](https://secure.travis-ci.org/twitter/gizzard.png)](http://travis-ci.org/twitter/gizzard)
 
 Check out [Using gizzard](http://github.com/twitter/gizzard/blob/master/doc/using.md)
 for details on requirements, how to build gizzard, and a demo app.
@@ -212,3 +212,9 @@ operations that are "newer". More documentation on this will be forthcoming.
 * John Kalucki
 * Matt Freels
 * Kyle Maxwell
+
+## License
+
+Copyright 2012 Twitter, Inc.
+
+Licensed under the Apache License, Version 2.0: http://www.apache.org/licenses/LICENSE-2.0
